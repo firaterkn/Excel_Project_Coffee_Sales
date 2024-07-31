@@ -1,6 +1,8 @@
 # Overview
 This project offers a comprehensive analysis of sales performance and customer behavior at our coffee shop over a specified period. It features key metrics and visualizations that shed light on various business aspects, including sales trends, customer preferences, and operational efficiency. The dashboard provides a detailed snapshot of our performance, enabling informed decisions to enhance customer satisfaction and drive business growth.
 
+<br>
+
 # The Questions
 
  The questions to be answered in the project are below:
@@ -14,11 +16,15 @@ This project offers a comprehensive analysis of sales performance and customer b
 7. What are the total sales and total footfall?
 8. Which size do customers prefer the most?
 
+<br>
+
 # Tools Used
 
 **1. Microsoft Excel:** Microsoft Excel was instrumental in the creation of this project. It was used for data collection, cleaning, and analysis. The various features of Excel, such as pivot tables, charts, and data visualization tools, facilitated the transformation of raw data into meaningful insights.
 
 **2. Git & GitHub:** Git and GitHub were utilized for version control and collaborative work on this project. Git, a distributed version control system, helped in tracking changes made to the project files, ensuring that every modification was documented and could be reverted if necessary.
+
+<br>
 
 # Data Preparation and Cleanup 
 This part is very important for cleaning the data we have and obtaining accurate information. This section includes:
@@ -33,9 +39,12 @@ This part is very important for cleaning the data we have and obtaining accurate
 
 **5. Sorting and Filtering:** These basic yet powerful tools were employed to organize data and isolate subsets of interest for detailed analysis. Such as using the date function to get only the hour part of the given date.
 
-# Result 
-![Project](https://github.com/firaterkn/Excel_Project_Coffee_Sales/blob/main/Coffee_Shop_Sales.PNG)
+<br>
 
+# Result 
+![Project](https://github.com/firaterkn/Excel_Project_Coffee_Sales/blob/main/Final_Showcase.PNG)
+
+<br>
 
 # Insights About the Graph
 
@@ -79,6 +88,60 @@ The distribution of product sizes shows that Regular (31%) and Large (30%) sizes
 ### Footfall and Sales Over Various Locations
 
 **Location Analysis:** The data indicates that our Astoria and Hell's Kitchen locations are leading in both footfall and sales, with 50,599 and 50,735 visitors generating $232,243.91 and $236,511.17 in sales respectively. Lower Manhattan follows with 47,782 visitors and $230,057.25 in sales. This analysis helps in identifying high-performing locations and areas with potential for growth.
+
+<br>
+
+# Insights 
+
+This project offered several valuable insights into the coffee shop's sales performance and customer behavior:
+
+## Peak Sales Periods
+
+**Morning Rush:** The data clearly indicates that the busiest hours are between 8 AM and 10 AM, emphasizing the importance of the morning crowd. This insight can guide staffing and inventory decisions to ensure we meet the high demand during these peak hours.
+
+## Product Popularity
+
+**Top-Selling Products:** Understanding that Barista Espresso, Brewed Chai Tea, Gourmet brewed coffee and Hot chocolate are the top sellers can inform product placement, promotional efforts, and inventory management to maximize sales.
+
+## Customer Preferences
+
+**Size Distribution:** The preference for regular and large sizes highlights the need to ensure these options are always available. Additionally, the significant share of the "Not Defined" category suggests an area for improvement in product categorization and customer guidance.
+
+## Weekly Sales Patterns
+
+**Busiest Days:** Mondays, Tuesdays and Fridays are the busiest days, indicating potential for targeted promotions or special events to capitalize on increased foot traffic. Conversely, strategies to boost sales on quieter days like Saturdays and Sundays could be beneficial.
+
+## Category Performance
+
+**High-Performing Categories:** The strong performance of coffee and tea categories suggests these should remain a focus. The relatively lower sales of flavours, drinking chocolate and bakery items indicate potential areas for growth or reevaluation.
+
+## Location-Based Insights
+
+**Top Locations:** The performance of the Astoria and Hell's Kitchen locations provides a benchmark for other locations. Understanding what drives success in these areas can help replicate those strategies elsewhere.
+
+<br>
+
+# Challenges Faced
+This project presented several challenges, each of which provided valuable learning opportunities:
+
+## Data Inconsistencies
+
+**Handling Missing or Inconsistent Data:** Managing incomplete or inconsistent data entries required meticulous data-cleaning techniques. Ensuring the integrity and reliability of the dataset was crucial, necessitating extensive use of Excel functions for error checking, data trimming, and validation.
+
+## Complex Data Visualization
+
+**Creating Effective Visuals:** Designing visual representations that clearly and compellingly conveyed insights from complex datasets was a significant challenge. It was essential to strike a balance between aesthetic appeal and informational clarity, ensuring that the visualizations were both engaging and informative.
+
+## Balancing Detail and Overview
+
+**Depth vs. Breadth of Analysis:** Deciding the appropriate level of detail for each analysis while maintaining a broad overview of the entire dataset required constant balancing. The goal was to provide comprehensive coverage without getting bogged down in minutiae, ensuring that key insights were highlighted and accessible.
+
+<br>
+
+# Conclusion
+This exploration into the coffee shop's sales performance and customer behavior has been highly informative, revealing critical insights that can drive future decision-making and strategy. The analysis highlighted key patterns in customer preferences, peak sales periods, and product performance, providing actionable guidance for optimizing operations and enhancing customer satisfaction.
+
+Understanding these trends and insights forms a solid foundation for ongoing improvement and adaptation in the coffee shop industry. Continuous analysis and monitoring will be essential to stay ahead of market changes and customer expectations. This project underscores the importance of thorough data cleaning, effective visualization, and strategic analysis in deriving valuable insights and making informed business decisions.
 
 
 
