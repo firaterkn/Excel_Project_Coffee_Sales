@@ -109,7 +109,7 @@ This project offered several valuable insights into the coffee shop's sales perf
 
 ## Weekly Sales Patterns
 
-**Busiest Days:** Mondays, Tuesdays and Fridays are the busiest days, indicating potential for targeted promotions or special events to capitalize on increased foot traffic. Conversely, strategies to boost sales on quieter days like Saturdays and Sundays could be beneficial.
+**Busiest Days:** Mondays, Thursdays and Fridays are the busiest days, indicating potential for targeted promotions or special events to capitalize on increased foot traffic. Conversely, strategies to boost sales on quieter days like Saturdays and Sundays could be beneficial.
 
 ## Category Performance
 
