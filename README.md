@@ -42,7 +42,7 @@ This part is very important for cleaning the data we have and obtaining accurate
 <br>
 
 # Result 
-![Project](https://github.com/firaterkn/Excel_Project_Coffee_Sales/blob/main/Final_Showcase.PNG)
+![Dashboard](https://github.com/firaterkn/Excel_Project_Coffee_Sales/blob/main/Dashboard.PNG)
 
 <br>
 
